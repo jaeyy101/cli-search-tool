@@ -8,5 +8,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^14.0.1"
+  },
+  "bin": {
+    "cli-search": "./index.js"
+  }
 }
